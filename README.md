@@ -1,1 +1,1 @@
-This is my Demo repository.
+This is my repository.
